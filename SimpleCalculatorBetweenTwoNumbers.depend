@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778164849 source:c:\users\rant\documents\codes\simplecalculatorbetweentwonumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
