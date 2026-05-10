@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1778164849 source:c:\users\rant\documents\codes\simplecalculatorbetweentwonumbers\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1778411767 source:c:\users\rant\documents\codes\simple-calculator-between-two-numbers\main.c
-	<stdio.h>
-	<stdlib.h>
-
